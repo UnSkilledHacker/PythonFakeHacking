@@ -1,0 +1,62 @@
+import time 
+import random 
+
+print("WARNING THIS IS NO JOKE THIS WILL BRUTE FORCE THE CITY POWER AND USE IT LEGGALY ANY BAD USES WILL LEAD TO JAIL TIME SO USE IT AT YOUR OWN RISK ")
+time.sleep(2)
+
+print ("Do you want to brute force the main powerbox to get access to shut down or even annoy people Say YES to continue")
+input("Yes:")
+time.sleep(3)
+print("Brute forcing the main powerbox are you sure you want to contiune?:")
+
+input ("Yes:")
+
+
+print("WARNING THIS IS NO JOKE THIS WILL BRUTE FORCE THE CITY POWER AND USE IT LEGGALY ANY BAD USES WILL LEAD TO JAIL TIME SO USE IT AT YOUR OWN RISK ")
+time.sleep(2)
+
+print ("Do you want to brute force the main powerbox to get access to shut down or even annoy people Say YES to continue")
+input("Yes:")
+time.sleep(3)
+print("Brute forcing the main powerbox are you sure you want to contiune?:")
+
+input ("Yes:")
+
+
+print ("IKEN8?930")
+time.sleep(0.5)
+
+print ("jfon29nr")
+time.sleep(0.5)
+
+print ("IKEN8?9fe2")
+time.sleep(0.5)
+
+print ("IKEN8?92f2330")
+time.sleep(0.5)
+
+print ("IKEN8da23?930")
+time.sleep(0.5)
+
+print ("IKEN8asd2?930")
+time.sleep(0.5)
+
+print ("IKEN8?sdfqw3930")
+time.sleep(0.5)
+
+print ("IKENd2e2c8?930")
+time.sleep(0.5)
+
+print ("IKEN23d28?930")
+time.sleep(0.5)
+
+print ("IKEN2dg28?930")
+time.sleep(0.5)
+
+print ("IKEN8wf2@$?930")
+time.sleep(0.5)
+
+time.sleep(3)
+print("Checking and logining to the main powerbox to check if it works")
+time.sleep(7)
+print("Well done you have brute forced the main powerbox please do not use for bad use")
