@@ -1,52 +1,46 @@
 import time 
 import random
- 
-print ("DEDSEC")
-print ("PRESS ENTER TO START WORLD LIGHT OFF")
-input = ("Press any button to start")
-time.sleep(3)
-print("1%")
-time.sleep(0.75)
-
-
-print("1%")
-time.sleep(0.75)
-print("5.90")
-print("10.52%")
-time.sleep(0.75)
-print("20.52%")
-
-print("31%")
-time.sleep(0.75)
-
-print("32.23%")
-time.sleep(0.75)
-print("33.43%")
-print("66.43%")
-time.sleep(0.75)
-print("77.77%")
-print("87%")
-time.sleep(0.75)
-print("88%")
-print("89%")
-time.sleep(0.75)
-print("90%")
-
-print("91.55%")
-time.sleep(0.75)
-
-print("92%")
-time.sleep(0.75)
-print("93%")
-print("94%")
-time.sleep(0.75)
-print("95%")
-print("96%")
-time.sleep(0.75)
-print("97%")
-print("98.50%")
-time.sleep(0.75)
-print("100%")
+print("""
+   / __ \/ ____/ __ \/ ____// ____/ ____/\\
+  / / / / __/ / / / /\___ \/ __/\/ /\\___\\/
+ / /_/ / /___/ /_/ /____/ / /___/ /_/__
+/_____/_____/_____//_____/_____/\_____/\\
+\\_____\\\\____\\\\\\___\\\\_____\\\\____\\_\\____\\/""")
 time.sleep(1)
-print("Done!")
-time.sleep(100)
+print("Do you want to delete your CTOS FILES:")
+input = input("Y/N: ")
+time.sleep(3)
+print ("if you pressed Y/N your still going i dont care")
+time.sleep(1)
+print("trying password:VM3839912822NDF8211111111110R92IM3OM")
+time.sleep (0.98)
+print("trying password:VM3839920R9127^*2IM3OM")
+time.sleep (0.98)
+print("trying password:VM3839920R92027842IM3OM")
+time.sleep (0.98)
+print("trying password:VM38FKMEI339920R92IM3OM")
+time.sleep (0.98)
+print("trying password:V3JKFON2839920R92IM3OM")
+time.sleep (0.98)
+print("trying password:DMKDO33839920R92IM3OM")
+time.sleep (0.98)
+print("trying password:VM38399234F2340R92IM3OM")
+time.sleep (0.98)
+print("trying password:VM3839920R92IFJEOM")
+time.sleep (0.98)
+print("trying password:E3839920R92IM3OM")
+
+print("trying password:V3839920R92IM3OM")
+time.sleep(3)
+print ("Password founded password is:V3839920R92IM3OM")
+
+print("System:Do you want to delete your CTOS PROFILE:")
+
+time.sleep(3)
+
+print ("Well too bad Deleting CTOS PROFILE")
+print("Create new account:")
+time.sleep(3)
+print("Y/N:N")
+time.sleep(1)
+print("Your welcome AHAHAH have a nice day!!!!!!!!!!!")
