@@ -1,0 +1,1 @@
+This works on TERMUX LINUX And WINDOWS ONLY
