@@ -1,0 +1,14 @@
+import time
+import random
+
+print("Welcome to wifi bypasser press yes to start the bypassing process it will bypass a random one and you will have to find the right name and password to get in ")
+time.sleep(1)
+print("loading...")
+
+print("Press any button to bypass one of the wifi passwords near you")
+input("Press any button to bypass one of the wifi passwords near you")
+print("loading exploits and bypassing a random wifi near you")
+time.sleep(9)
+print("Completed no errors were founded good luck password is:")
+time.sleep(0.75)
+print("VM3948205810531")
