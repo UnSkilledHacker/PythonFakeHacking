@@ -1,72 +1,64 @@
 import time 
 import random
-print("Bypassing System now...")
+print("[Welcome to BlumeDB how may i help you:]")
+time.sleep(1)
+print("1.[are you sure you want to delete This users data]")
+input("[Y/N]")
+print("Please wait...For the Malware")
+time.sleep(3)
+print("""⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⡤⠦⠶⠦⠦⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⡶⠟⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠛⠲⢶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠿⠇⠀⣀⠀⠀⠀⣤⣄⣀⡄⠀⠀⠀⠀⠀⠙⢷⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⢾⠇⠀⠀⣦⣄⡈⢳⡀⠀⠈⡿⡖⠋⠀⠀⠀⠀⠀⠀⠀⠙⣧⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣄⡄⠈⠹⣆⢻⡄⠀⠀⠁⠀⠀⢀⣀⠀⠀⠀⠀⠀⠈⢿⡄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠇⠀⠀⠀⠀⠀⠀⠀⠀⢠⣶⣿⡽⠷⠷⠷⣬⡳⣌⠳⣕⠀⢀⡴⠚⠉⠁⠀⠀⠈⠀⠀⡀⠀⠈⢿⡄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡇⠂⠀⠀⠀⠀⠀⠀⠀⠀⠠⣿⠏⠀⢀⣠⠶⢮⣝⢾⡆⠙⣦⡏⠀⠀⣀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠘⣿⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢰⡿⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⣿⠀⠀⢎⢿⣿⣿⢹⢻⣼⡿⠛⢧⣴⣾⢿⣢⢤⣤⣤⡀⠀⠘⠦⠀⠀⢸⣇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣼⠇⠀⠀⠀⠀⠀⠀⠿⠃⠀⠀⠀⠘⢧⡀⠘⠲⠯⠦⢞⠘⠛⠳⠀⠀⣼⡟⠿⠧⠼⣿⣇⡿⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀
+⠀⠀⠀⢀⣤⣤⣀⢀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣶⣦⣶⣶⡾⠂⢰⡆⠀⠀⠙⠷⣤⡀⠀⠀⠈⠉⠀⣦⡀⠀⠀⠀⣿⠀⠀⠀⠀
+⠀⣰⣾⠿⢷⠀⠈⢹⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠋⠉⢀⣾⣻⢤⣤⠀⠀⣀⣸⣯⣀⠀⠀⠀⠀⠈⠁⠀⠀⠀⣿⠀⠀⠀⠀
+⢸⡏⡿⡄⠘⣇⠀⢸⡇⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⠛⠛⠛⠁⠾⠿⠟⣻⡿⢿⡀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀
+⠈⣷⡇⠸⠆⠛⡆⢸⡇⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣇⡤⠚⢉⣙⣻⣖⣲⣿⣛⢷⣧⠀⠀⠀⠀⠀⠀⠀⢰⡏⠀⠀⠀⠀
+⠀⢸⡇⠀⠀⠀⠀⠈⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⠟⢀⣴⠋⣻⣿⣛⡛⢛⣻⣷⠏⢠⠀⠀⠀⠀⠀⠀⣸⠇⠀⠀⠀⠀
+⠀⠈⢧⠀⠀⠀⠀⠀⠙⢷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⢿⡿⠁⣖⢿⣿⣿⣿⣿⣿⣿⣽⡿⠋⢠⣾⠀⠀⠀⠀⠀⢰⡿⠀⠀⠀⠀⠀
+⠀⠀⠈⢧⡀⠀⠀⠀⠀⠀⠙⢷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠏⣼⠁⣼⣿⣿⣿⢿⣿⢿⣿⡿⣴⠆⠀⣸⡏⠀⠀⠀⠀⢀⣿⠃⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⠻⡄⠀⠀⠀⠀⠀⠀⠙⠻⣦⣄⠀⠀⠀⠀⠀⠀⠀⣿⡀⠼⣇⠉⠛⠻⠿⣿⣞⣷⠺⡿⠿⢹⡆⠸⠀⠄⠀⠀⢠⣿⠃⠀⢀⣀⣶⣄⠀
+⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⣀⡽⠻⣶⣄⠀⠀⠀⠀⠈⠙⣦⠀⠙⠓⠒⠦⠤⣬⣍⣍⣥⡤⠟⠁⠀⠀⠀⠀⢠⡿⢧⣴⣿⡞⣉⣈⢹⣇
+⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀⢀⣠⡤⠞⠋⠀⠀⠈⠙⠻⣦⣀⠀⠀⠀⠈⠓⠀⠀⠀⠀⠀⠒⠻⢽⠽⠋⠁⠀⠀⠀⣠⣴⠟⠁⠀⣹⣿⣿⡉⠙⣿⡿
+⠀⠀⠀⠀⠀⠀⠀⠀⣨⠟⣯⡀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠷⢶⣶⣤⣤⣄⣀⣀⣀⣀⣀⣀⣀⣠⣤⣴⡶⠾⠛⠉⠁⠀⣠⠞⠋⠀⠈⣹⠀⠛⠀
+⠀⠀⠀⠀⠀⠀⢀⡼⠁⠀⠈⠻⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⣹⡿⠋⠉⠁⠀⠀⠀⠀⢀⣰⠟⠁⠀⠀⠀⠸⠟⠀⠀⠀
+⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠋⠀⠀⠀⠀⠀⠀⣠⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠓⠲⠦⠤⠤⢤⡴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠾⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀""")
+time.sleep(0.35)
+print("Welcome to the Dedsec Malware injector!")
+time.sleep(3)
+print("[Are you sure you want to delete all data of this username called]: , username?")
+time.sleep(0.01)
+input("[Y/N]: ")
+time.sleep(1)
+print("Please wait injecting malware to BlumeDB.")
+time.sleep(2)
+print("Please wait injecting malware to BlumeDB..")
+time.sleep
+print("Please wait injecting malware to BlumeDB...")
+time.sleep(1)
+print("Done")
+time.sleep(1)
+print("Are you sure all this data wont be recoverable continie")
+time.sleep(1)
+input("[Y/N]: ")
+time.sleep(1)
+print("25%")
+time.sleep(0.55)
+print("50%")
+time.sleep(1)
+print("100%")
+time.sleep(1)
+print("Checking server farm if theres any Erros")
 time.sleep(7)
-print("Bypassing completed")
-time.sleep(1)
-print("Loading more exploits to bypass...")
-time.sleep(1)
-
-print("Loading completed")
-time.sleep(1)
-print("Exploiting phones and computers...")
-time.sleep(1)
-print("Trying password:VM2812312329291")
-time.sleep(0.5)
-print("Trying password:VM28523129291")
-time.sleep(0.5)
-print("Trying password:VM28123123529291")
-time.sleep(0.5)
-print("Trying password:VM28123123529291")
-time.sleep(0.5)
-print("Trying password:VM28123123529291")
-time.sleep(0.5)
-print("Trying password:VM28512312329291")
-time.sleep(0.5)
-print("Trying password:VM28123123529291")
-time.sleep(0.5)
-print("Trying password:VM281231212529291")
-time.sleep(0.5)
-print("Trying password:VM2831231231529291")
-time.sleep(0.5)
-print("Trying password:VM22312312318529291")
-time.sleep(0.5)
-print("Trying password:VM231231231131285232c9291")
-time.sleep(0.5)
-print("Trying password:VM212312313213212312382f2529291")
-time.sleep(0.5)
-print("Trying password:VM2@$@!8529291")
-time.sleep(0.5)
-print("Trying password:VM28$@!!529291")
-time.sleep(0.5)
-print("Trying password:VM28!!!!!D8529291")
-time.sleep(0.5)
-print("Trying password:VM2dsd8529291")
-time.sleep(0.5)
-print("Trying password:VMWD2F28529291")
-time.sleep(0.5)
-print("Trying password:VMD23F28529291")
-time.sleep(0.5)
-print("Trying password:VM28529291")
-time.sleep(0.5)
-print("Trying password:VM28529291")
-time.sleep(0.5)
-print("Trying password:VM285QWFQWFW29291")
-time.sleep(0.5)
-print("Trying password:VM28WFWQWQF529291")
-time.sleep(0.5)
-print("Trying password:VMEGEWGEGW28529291")
-time.sleep(0.5)
-print("Trying password:VM2EGWEWGEG8529291")
-time.sleep(0.5)
-print("Trying password:VM2EWGGEWEWG8529291")
-time.sleep(0.5)
-print("Trying password:VM2GDSG8529291")
-time.sleep(0.5)
-print("Trying password:VM28SDFSDF529291")
-time.sleep(0.5)
-time.sleep(1)
-print("Trying password:VM28SDFSDF529291 On logins")
-time.sleep(7)
-print("Completed well done you hacked someones phone")
-input = (input) ("Ok")
+print("No Errors Was founded!")
+time.sleep(2)
+print("Account Deleted!")
